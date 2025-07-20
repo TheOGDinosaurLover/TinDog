@@ -1,2 +1,2 @@
 # TinDog
-##A Tinder app for Dogs
+A Tinder app for Dogs
