@@ -1,2 +1,1 @@
-# TinDog
-A Tinder app for Dogs
+*This project was built as part of my learning journey through the Full-Stack web development bootcamp on Udemy by Dr. Angela Yu. The core concept, design, and structure of this project are credited to the instructor. My goal was to solidify my understanding of HTLM5,CSS,BOOTSTRAP, and I have since added my own personal modifications.*
